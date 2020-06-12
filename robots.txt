@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.shubhamraj.dev/sitemap.xml
+Host: https://www.shubhamraj.dev
