@@ -6,8 +6,8 @@ skills:
   - HTML & (S)CSS
   - React
   - Node.js
-  - Python
-  - C++
+  - Rails
+  - Ruby
 ---
 
 Hello! I'm Shubham Raj, a software engineer based in Jharkhand, INDIA.

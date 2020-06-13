@@ -7,10 +7,6 @@ range: 'July 2018 - July 2019'
 url: 'https://www.nagra.com/'
 ---
 
-- Responsible for handling many client projects, end to end under manager. 
-- Taken lead of over 8+ feature in last 8 months.
-- Built infrastructure to handle files in proprietary systems.
-- Built many robust code that help in companies testing stability. 
-- Reduced 55% of error code by developing robust code in Python.
-- Built python script into new product features to achieve 85% compliance with industry best practices.
-- Working in Agile environment. 
+- System Acceptance Testing and Program delivery.
+- Reporting Tests and Technical documentation.
+- Implemented STB automated test lab environments.

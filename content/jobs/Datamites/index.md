@@ -7,10 +7,7 @@ range: 'July 2019 - April 2020'
 url: 'https://www.datamites.com/'
 ---
 
-- Developed a ReactJS based application and worked in NodeJS.
 - Working in MERN Stack development
-- Implemented continuous integration and delivery
 - Learned new front-end technologies and implemented them
-- Built new API services for external partners 
-
-
+- Engaged in client communication for all-important.
+- Developed and implemented advanced analytics approaches.

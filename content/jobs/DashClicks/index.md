@@ -7,5 +7,6 @@ range: 'April - May 2020'
 url: 'https://www.dashclicks.com/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Developed a ReactJS based application and worked in NodeJS.
+- Worked as MERN Stack development
+- Learned new front-end technologies and implemented them
