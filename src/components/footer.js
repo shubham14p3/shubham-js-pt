@@ -70,7 +70,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/shubham14p3/shubham-js-pt')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -102,7 +102,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/shubham14p3/shubham-js-pt"
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Shubham Raj</div>
