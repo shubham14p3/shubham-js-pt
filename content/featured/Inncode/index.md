@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Incode Website'
 cover: './incode.png'
 github: ''
@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-The Inncode is website build on React and next generation JS scripts. It include all the bootstraps functionality, services also. 
+The Inncode is website build on React and next generation JS scripts. It include all the bootstraps functionality, services also.
