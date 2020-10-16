@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Shubham Raj | Software Engineer',
   siteDescription:
-    'Shubham Raj is a software engineer based in Jharkhand, INDIA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Shubham Raj is a software engineer based in Jharkhand, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Shubham Raj, Shubham, SRAJ, shubham14p3, software engineer, front-end engineer, web developer, javascript, northeastern, data scientist, software developer',
   siteUrl: 'https://www.shubhamraj.dev',
