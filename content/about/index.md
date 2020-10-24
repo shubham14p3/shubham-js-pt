@@ -5,7 +5,7 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Next.js
+  - Redux
   - Rails
   - Ruby
 ---
