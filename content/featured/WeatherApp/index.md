@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'Incode Website'
+title: 'JS Weather App'
 cover: './WeatherApp.JPG'
 github: 'https://github.com/shubham14p3/weatherApp'
 external: 'https://shubham14p3.github.io/weatherApp/'

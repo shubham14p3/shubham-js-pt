@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Fill Your Bucket'
+title: 'React MCQ Test'
 cover: './MCQTest.JPG'
 github: 'https://github.com/shubham14p3/react-mcq-test'
 external: 'https://react-mcq-test.herokuapp.com/'

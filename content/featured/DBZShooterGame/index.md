@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Incode Website'
+title: 'DBZ Legend 2D Shooter'
 cover: './dbz.png'
 github: 'https://github.com/shubham14p3/JS-Shooter-Game'
 external: 'https://desolate-depths-73675.herokuapp.com/'
