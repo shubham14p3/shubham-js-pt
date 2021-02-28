@@ -63,7 +63,7 @@
     "scrollreveal": "^4.0.7",
     "smooth-scroll": "^16.1.0",
     "styled-components": "^4.4.0",
-    "yarn": "^1.17.0"
+    "yarn": "^1.22.10"
   },
   "devDependencies": {
     "@upstatement/eslint-config": "0.4.3",
